@@ -1,2 +1,2 @@
 *.zip
-/assets/css/*
+/assets/css/**
