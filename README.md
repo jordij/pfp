@@ -1,8 +1,8 @@
-#Pest Free Piha
+# Pest Free Piha
 
 Static site http://pestfreepiha.nz
 
-##Frontend
+## Frontend
 
 ```
 $ cd assets
